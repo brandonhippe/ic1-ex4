@@ -1,0 +1,3 @@
+I think this exercise was really helpful to gain a little bit of experience in working with command line and git together, as well as seeing how git/github works for version control. It seems like a super powerful tool, especially for coding projects.
+
+I think updating the exercises with some pictures to guide through them would be very helpful, as well as updating with some changes to the commands and the github interface that may have happened, maybe I was lost and not looking at the right things, but I got a little lost at points.
